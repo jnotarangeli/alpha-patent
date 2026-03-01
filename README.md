@@ -104,4 +104,4 @@ No individual factor loading is significant at the 5% level, confirming that the
 
 ## License
 
-MIT
+This project is licensed under the [MIT License](LICENSE).
