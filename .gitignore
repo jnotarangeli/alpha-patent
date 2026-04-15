@@ -1,0 +1,16 @@
+*.parquet
+*.csv
+*.xlsx
+*.png
+*.jpg
+*.svg
+*.pdf
+figures/
+output/
+Old/
+.venv/
+.DS_Store
+.Rhistory
+.ipynb_checkpoints/
+data/
+Data/
